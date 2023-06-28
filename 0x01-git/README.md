@@ -1,1 +1,1 @@
-echo “My first git project”
+echo "this is my first code"
